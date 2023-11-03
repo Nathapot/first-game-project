@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Potto/first-game-project/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/P3/CT3K8F9HJEJXYWXUFJ1EPX.uasset",
+				"D:/Potto/first-game-project/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Q6/ONUXMVJ3IIUK2G5RSU3VNM.uasset",
+				"D:/Potto/first-game-project/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZD/L4YI7EYBSQJM9Y57AN0569.uasset",
+				"D:/Potto/first-game-project/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SI/MVZWF2RQS4MGVUEX7HNKJT.uasset",
+				"D:/Potto/first-game-project/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/49/GC5KOO1EVITW53XV3FQ6HJ.uasset",
+				"D:/Potto/first-game-project/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/82/JGG13SHPY7RIPMMM1HABKE.uasset"
+			]
+		}
+	]
+}
